@@ -2,6 +2,8 @@
 
 Aelix 广告聚合 SDK，支持 Banner、插屏、开屏、激励视频、全屏视频、信息流等广告形式。
 
+当前版本内置广告渠道：UbiX（通过 CocoaPods 依赖 `UBiXMediationSDK`、`UBiXMUBiXAdapter` 自动引入）。
+
 ## 系统要求
 
 - iOS 12.0+

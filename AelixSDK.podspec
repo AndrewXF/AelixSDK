@@ -22,4 +22,8 @@ Pod::Spec.new do |s|
   s.libraries = 'z', 'sqlite3', 'c++', 'c++abi', 'xml2', 'bz2', 'iconv', 'resolv'
 
   s.user_target_xcconfig = { 'OTHER_LDFLAGS' => '-ObjC' }
+
+  # UbiX 广告渠道
+  s.dependency 'UBiXMediationSDK', '2.12.2.11.1001'
+  s.dependency 'UBiXMUBiXAdapter', '2.9.0.11.0'
 end
