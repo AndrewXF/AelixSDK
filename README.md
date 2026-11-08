@@ -12,7 +12,7 @@ Aelix 广告聚合 SDK，支持 Banner、插屏、开屏、激励视频、全屏
 在 `Podfile` 中引入：
 
 ```ruby
-pod 'AelixSDK', :git => 'https://github.com/Aelix/AelixSDK.git', :tag => '1.0.0'
+pod 'AelixSDK', :git => 'https://gitee.com/coderqi/pod-resp-for-adprof-sdk.git', :tag => '1.0.0'
 ```
 
 然后执行：
