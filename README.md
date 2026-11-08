@@ -33,6 +33,10 @@ config.appid = @"YOUR_APP_ID";
 [AelixSDK initializeWithConfig:config];
 ```
 
+## 文档
+
+详细接入说明（工程配置、各广告位示例、代理回调、错误码、FAQ）见 [接入指南](INTEGRATION_GUIDE.md)。
+
 ## 目录结构
 
 - `AelixSDK.podspec`：Pod 描述文件
