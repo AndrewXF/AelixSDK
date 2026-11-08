@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'Aelix 广告聚合 SDK'
   s.description      = 'AelixSDK 提供 Banner、插屏、开屏、激励视频、全屏视频、信息流等广告形式，支持多广告平台聚合接入。'
-  s.homepage         = 'https://gitee.com/coderqi/pod-resp-for-adprof-sdk'
+  s.homepage         = 'https://github.com/AndrewXF/AelixSDK'
   s.license          = { :type => 'Apache-2.0', :file => 'LICENSE' }
   s.author           = { 'Aelix' => '858440119@qq.com' }
-  s.source           = { :git => 'https://gitee.com/coderqi/pod-resp-for-adprof-sdk.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/AndrewXF/AelixSDK.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '12.0'
   s.static_framework = true
